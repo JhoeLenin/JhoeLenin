@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JhoeLenin
-- 🌱 I’m currently learning React ...
+- 🌱 I’m currently learning React 
 
 
 <!---
